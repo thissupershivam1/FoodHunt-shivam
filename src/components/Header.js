@@ -26,7 +26,7 @@ const Header = () => {
       data-testid='logo'
       className='text-xl md:text-2xl font-semibold flex items-center'
     >
-       <span className='hidden md:block logo text-orange-500 '>FoodHunt</span>
+      🍔 <span className='hidden md:block logo'>FoodHunt</span>
     </Link>
         {/* <CiLocationOn className="font-bold text-2xl" /> */}
       </div>
